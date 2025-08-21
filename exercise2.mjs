@@ -25,3 +25,4 @@ function showPlaylist(){
 showPlaylist();
 
 // add 2 songs from your friend
+// exercise 3
