@@ -24,5 +24,5 @@ function showPlaylist(){
 }
 showPlaylist();
 
-// add 2 songs from your friend
+// add 2 songs from your friend & ajouter les chantes dans la liste via votre ami
 // exercise 3
